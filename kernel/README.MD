@@ -1,6 +1,7 @@
 最好的kernel function 教程
 https://www.youtube.com/watch?v=p4t6O9uRX-U
-
+playlist
+https://www.youtube.com/playlist?list=PLt0SBi1p7xrSXl2Fy2u0fgR0A5prvcq-i
 
 SVM是一个computer science lab提出来的，作为一个非抽象学派的计算机算法研究群体，我觉得他们最注重的直观性。
 
