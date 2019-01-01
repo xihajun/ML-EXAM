@@ -1,3 +1,7 @@
+最好的kernel function 教程
+https://www.youtube.com/watch?v=p4t6O9uRX-U
+
+
 SVM是一个computer science lab提出来的，作为一个非抽象学派的计算机算法研究群体，我觉得他们最注重的直观性。
 
 投射没错，扩大特征空间也将就，内积....就差点儿意思了。
