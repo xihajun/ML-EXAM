@@ -13,3 +13,6 @@ radial -> 变球
 链接：https://www.zhihu.com/question/267839623/answer/331082316
 来源：知乎
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+PRML VIDEO PPT
+https://slideplayer.com/slide/233581/
