@@ -35,11 +35,11 @@ noise = y - w*x
 % or noise - small number <= noise <= noise+ small number 
 % 计算这个区间的概率 然后由于独立性把概率相乘
 p = [];
-for w = 1 :10
-    noise = y - w*x
-    p = [p prod(normcdf(noise+1)-normcdf(noise-1))]
+for w = 1 :0.001:10
+    noise = y - w*x;
+    p = [p prod(normcdf(noise+1)-normcdf(noise-1))];
 end
 figure
-plot(p,'*')
+plot([1:0.001:10],p,'*')
 
 
